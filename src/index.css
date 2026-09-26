@@ -2,6 +2,19 @@
     box-sizing: border-box;
 }
 
-body {
+html, body {
     margin: 0;
+}
+
+.header {
+    align-items: center;
+    background: #F55A5A;
+    color: #fff;
+    column-gap: 7px;
+    display: flex;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    height: 55px;
+    justify-content: center;
 }
