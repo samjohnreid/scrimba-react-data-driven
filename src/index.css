@@ -12,9 +12,12 @@ html, body {
     color: #fff;
     column-gap: 7px;
     display: flex;
-    font-family: "Inter", sans-serif;
-    font-size: 15px;
-    font-weight: 500;
     height: 55px;
     justify-content: center;
+
+    h1 {
+      font-family: "Inter", sans-serif;
+      font-size: 15px;
+      font-weight: 500;
+    }
 }
